@@ -4,10 +4,10 @@
 
 passionate about technology and committed to continuous learning. I am always looking for new experiences and challenges to improve my skills in the programming world 😎
 - 🎸 My hobbies are:
-  - 💻 Learning more about software development
-  - 📊 Learning data science
+  - 💻 Learning more about programming
+  - 📊 Learning Hacking and security
   - 🎶 Playing music!
-  - 🏅 Sports
+  - 📷 Photography
 - 🔭 I’m currently working on DigiLoop
 - 🌱 I’m currently learning Flutter
 - 😄 I always like to share my knowledge
