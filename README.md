@@ -27,8 +27,8 @@ passionate about technology and committed to continuous learning. I am always lo
 - Flutter
 - bootstrap
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MMETehrani&" alt="score" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MMETehrani&" alt="score" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMETehrani&show_icons=true&locale=en&layout=compact" alt="score" />
 
 
-<a href="https://www.coffeebede.com/mmetehrani"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://www.coffeebede.com/mmetehrani"><img class="img-fluid" align="left" style="width:200px;margin-left:1000px" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
