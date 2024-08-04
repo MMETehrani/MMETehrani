@@ -84,7 +84,7 @@ passionate about technology and committed to continuous learning. I am always lo
 ### music platform :
   <a href="https://open.spotify.com/user/31vyttyrrzjtjhxji7dg4lfper64" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href="https://soundcloud.com/user-86665937-506985715" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
-  ![YouTube_Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+  <a href="https://music.youtube.com/channel/UCzAi21lslQjxJUSE_qrNp4g" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
 
 ---
 
