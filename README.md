@@ -85,7 +85,7 @@ passionate about technology and committed to continuous learning. I am always lo
   <a href="https://soundcloud.com/user-86665937-506985715" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
   <a href="https://music.youtube.com/channel/UCzAi21lslQjxJUSE_qrNp4g" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
   <br>
-[![](https://visitcount.itsvg.in/api?id=MMETehrani&icon=5&color=10)](https://visitcount.itsvg.in)
+
 ---
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MMETehrani&theme=dracula" alt="score" />
