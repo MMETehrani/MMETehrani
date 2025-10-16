@@ -88,11 +88,9 @@ passionate about technology and committed to continuous learning. I am always lo
 
 ---
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MMETehrani&theme=dracula" alt="score" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MMETehrani&amp;show_icons=true&private=true&theme=dracula&hide=prs" alt="score" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMETehrani&show_icons=true&locale=en&layout=compact&theme=dracula" alt="score" />
-
-
+<a href="http://www.coffeete.ir/mmetehrani">
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+</a>
 <a align="right" href="https://www.coffeebede.com/mmetehrani"><img class="img-fluid" align="left" style="width:200px;margin-left:1000px" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 <a href=#><img src="contributions.svg"></a>
